@@ -1,0 +1,11 @@
+{
+  "name": "xstream-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Player web para painéis Xtream Codes (Ao vivo, Filmes e Séries)",
+  "scripts": {
+    "start": "npx --yes serve .",
+    "dev": "npx --yes serve .",
+    "dev:vercel": "npx --yes vercel dev"
+  }
+}
